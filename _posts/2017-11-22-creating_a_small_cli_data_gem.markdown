@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Creating a Small CLI Data Gem# "
-date:       2017-11-22 21:11:30 +0000
+title:      "Creating a Small CLI Data Gem # "
+date:       2017-11-22 16:11:31 -0500
 permalink:  creating_a_small_cli_data_gem
 ---
 
